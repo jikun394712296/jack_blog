@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>qk_zhuan</id>
+<name>奇客zhuan响应式主题</name>
+<url>http://www.76zhuan.com/qkzhuan/</url>
+<note>奇客zhuan响应式主题</note>
+<description>奇客zhuan响应式主题,简单便捷</description>
+<path></path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>yan00gui00</name>
+  <email>whummer@qq.com</email>
+  <url>http://www.76zhuan.com/qkzhuan/</url>
+</author>
+<source>
+  <name>yan00gui00</name>
+  <email>whummer@qq.com</email>
+  <url>http://www.76zhuan.com/qkzhuan/</url>
+</source>
+<adapted>151740</adapted>
+<version>1.0</version>
+<pubdate>2018-04-10</pubdate>
+<modified>2018-09-04</modified>
+<price>0</price>
+<phpver>5.2</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>
